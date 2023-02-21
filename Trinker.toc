@@ -1,0 +1,6 @@
+## Interface: 80200
+## Title: Trinker
+## Author: Endredev
+## Version: 1.0
+
+Trinker.lua
